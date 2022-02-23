@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Welcome to source code of Tinggalklik!
 
-We using react.js for the development language
+We using react.js for front end development, for backend we using Express.js
